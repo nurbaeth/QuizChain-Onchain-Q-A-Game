@@ -6,7 +6,7 @@ Answer questions, earn points, and prove your knowledge — all stored and verif
 ![QuizChain Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhkNThlYjBkYTRkY2E2ZjRjNzVjMjVjYjc1NzI3ZTY3ZmE1MTkxNCZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif)       
              
 ---     
-     
+      
 ## 🚀 Features  
   
 - 🧩 Multiple-choice questions (4 options)     
