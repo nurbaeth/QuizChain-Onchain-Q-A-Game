@@ -15,7 +15,7 @@ Answer questions, earn points, and prove your knowledge — all stored and verif
 - 🏆 Score tracking per player address      
 - ⚙️ Admin panel to add new questions     
 - 🤖 No tokens, no payouts — just smart logic
- 
+  
 ---
 
 ## 📦 Project Structure
