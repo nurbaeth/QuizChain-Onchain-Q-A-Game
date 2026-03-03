@@ -1,4 +1,4 @@
-# 🧠 QuizChain: Onchain Q&A Game           
+# 🧠 QuizChain: Onchain Q&A Game            
              
 Welcome to **QuizChain**, a fully on-chain trivia game built with Solidity.           
 Answer questions, earn points, and prove your knowledge — all stored and verified on the Ethereum blockchain.          
