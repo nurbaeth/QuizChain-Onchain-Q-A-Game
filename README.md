@@ -10,7 +10,7 @@ Answer questions, earn points, and prove your knowledge — all stored and verif
 ## 🚀 Features  
    
 - 🧩 Multiple-choice questions (4 options)       
-- 🔐 Fully on-chain logic (no backend)      
+- 🔐 Fully on-chain logic (no backend)       
 - 🧠 One answer per question per player     
 - 🏆 Score tracking per player address       
 - ⚙️ Admin panel to add new questions     
