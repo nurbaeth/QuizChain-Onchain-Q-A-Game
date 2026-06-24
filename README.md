@@ -13,7 +13,7 @@ Answer questions, earn points, and prove your knowledge — all stored and verif
 - 🔐 Fully on-chain logic (no backend)       
 - 🧠 One answer per question per player      
 - 🏆 Score tracking per player address        
-- ⚙️ Admin panel to add new questions     
+- ⚙️ Admin panel to add new questions      
 - 🤖 No tokens, no payouts — just smart logic
   
 ---
